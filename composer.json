@@ -1,0 +1,25 @@
+{
+    "name": "w3scloud/w3swoozoho",
+    "description": "Woocommerce to Zoho",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Shazahanul Islam Shohag",
+            "email": "shohag121@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "tareq1988/wordpress-settings-api-class": "1.2",
+        "zohocrm/php-sdk-archive": "2.2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "W3SCloud\\WooZoho\\": "inc/"
+        },
+        "files": [
+            "lib/class-tgm-plugin-activation.php"
+        ]
+    }
+}

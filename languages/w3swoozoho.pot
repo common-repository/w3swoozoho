@@ -1,0 +1,85 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: W3S Woo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-05 10:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.2; wp-5.4"
+
+#: inc/Admin/Settings/Settings.php:144
+msgid "Activate or Deactivate the integration."
+msgstr ""
+
+#: inc/Admin/Settings/Settings.php:154
+msgid "Client ID"
+msgstr ""
+
+#: inc/Admin/Settings/Settings.php:163
+msgid "Client Secret"
+msgstr ""
+
+#. Description of the plugin
+msgid "Connect Zoho with WooCommerce."
+msgstr ""
+
+#: inc/Admin/Settings/Settings.php:89
+msgid "CRM Settings"
+msgstr ""
+
+#: inc/Admin/Settings/Settings.php:138
+msgid "Get Application Credentials"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://w3scloud.com"
+msgstr ""
+
+#: inc/Admin/Settings/Settings.php:111
+msgid "Information to create Client ID"
+msgstr ""
+
+#: inc/Admin/Settings/Settings.php:171
+msgid "Insert email address associated with your Zoho user id."
+msgstr ""
+
+#: inc/Admin/Settings/Settings.php:155
+msgid "Insert your application Client ID here."
+msgstr ""
+
+#: inc/Admin/Settings/Settings.php:143
+msgid "Integration Status"
+msgstr ""
+
+#. Author of the plugin
+msgid "W3S Cloud Team"
+msgstr ""
+
+#. Name of the plugin
+msgid "W3S Woo"
+msgstr ""
+
+#: inc/Admin/Settings/Settings.php:156
+msgid "Your application Client ID here"
+msgstr ""
+
+#: inc/Admin/Settings/Settings.php:164
+msgid "Your application client Secret here."
+msgstr ""
+
+#: inc/Admin/Settings/Settings.php:172
+msgid "your@email.ltd"
+msgstr ""
+
+#: inc/Admin/Settings/Settings.php:170
+msgid "Zoho User Email"
+msgstr ""

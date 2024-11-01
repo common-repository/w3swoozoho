@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => 'w3scloud/w3swoozoho',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '642d4f3e2d311a98c502da90e3ea4f74dfd7da20',
+        'type' => 'wordpress-plugin',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        'tareq1988/wordpress-settings-api-class' => array(
+            'pretty_version' => 'v1.2',
+            'version' => '1.2.0.0',
+            'reference' => 'ecb2778e17ef5d871f2d13697406d5efed9068ac',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../tareq1988/wordpress-settings-api-class',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'w3scloud/w3swoozoho' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '642d4f3e2d311a98c502da90e3ea4f74dfd7da20',
+            'type' => 'wordpress-plugin',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'zohocrm/php-sdk-archive' => array(
+            'pretty_version' => '2.2.1',
+            'version' => '2.2.1.0',
+            'reference' => 'b389382181b87d96a4c2cf331a315bd868e90249',
+            'type' => 'sdk',
+            'install_path' => __DIR__ . '/../zohocrm/php-sdk-archive',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);
